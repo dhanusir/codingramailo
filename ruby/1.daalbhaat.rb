@@ -11,5 +11,3 @@ elsif token_num % 5 == 0
 else
   puts "Avaidh Token. Arko patak prayas garnuhos!"
 end
-
-
